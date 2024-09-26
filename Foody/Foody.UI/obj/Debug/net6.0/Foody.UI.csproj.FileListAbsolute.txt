@@ -1,0 +1,11 @@
+D:\Github\FoodyProject_.NETCore\Foody\Foody.UI\bin\Debug\net6.0\Foody.UI.deps.json
+D:\Github\FoodyProject_.NETCore\Foody\Foody.UI\bin\Debug\net6.0\Foody.UI.dll
+D:\Github\FoodyProject_.NETCore\Foody\Foody.UI\bin\Debug\net6.0\Foody.UI.pdb
+D:\Github\FoodyProject_.NETCore\Foody\Foody.UI\obj\Debug\net6.0\Foody.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FoodyProject_.NETCore\Foody\Foody.UI\obj\Debug\net6.0\Foody.UI.AssemblyInfoInputs.cache
+D:\Github\FoodyProject_.NETCore\Foody\Foody.UI\obj\Debug\net6.0\Foody.UI.AssemblyInfo.cs
+D:\Github\FoodyProject_.NETCore\Foody\Foody.UI\obj\Debug\net6.0\Foody.UI.csproj.CoreCompileInputs.cache
+D:\Github\FoodyProject_.NETCore\Foody\Foody.UI\obj\Debug\net6.0\Foody.UI.dll
+D:\Github\FoodyProject_.NETCore\Foody\Foody.UI\obj\Debug\net6.0\refint\Foody.UI.dll
+D:\Github\FoodyProject_.NETCore\Foody\Foody.UI\obj\Debug\net6.0\Foody.UI.pdb
+D:\Github\FoodyProject_.NETCore\Foody\Foody.UI\obj\Debug\net6.0\ref\Foody.UI.dll

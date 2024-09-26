@@ -1,0 +1,11 @@
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\bin\Debug\net6.0\Food.BusinessLayer.deps.json
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\bin\Debug\net6.0\Food.BusinessLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\bin\Debug\net6.0\Food.BusinessLayer.pdb
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\Food.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\Food.BusinessLayer.AssemblyInfoInputs.cache
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\Food.BusinessLayer.AssemblyInfo.cs
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\Food.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\Food.BusinessLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\refint\Food.BusinessLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\Food.BusinessLayer.pdb
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\ref\Food.BusinessLayer.dll

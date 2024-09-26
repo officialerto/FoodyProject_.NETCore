@@ -1,0 +1,14 @@
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\bin\Debug\net6.0\Foody.EntityLayer.deps.json
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\bin\Debug\net6.0\Foody.EntityLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\bin\Debug\net6.0\Foody.EntityLayer.pdb
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.AssemblyInfoInputs.cache
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.AssemblyInfo.cs
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\refint\Foody.EntityLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.pdb
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\ref\Foody.EntityLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\bin\Debug\net6.0\Foody.EntityLayer.runtimeconfig.json
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.csproj.AssemblyReference.cache
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.genruntimeconfig.cache
