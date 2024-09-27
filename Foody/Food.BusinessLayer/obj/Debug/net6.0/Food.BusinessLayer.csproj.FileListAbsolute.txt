@@ -9,3 +9,10 @@ D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\Food.B
 D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\refint\Food.BusinessLayer.dll
 D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\Food.BusinessLayer.pdb
 D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\ref\Food.BusinessLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\bin\Debug\net6.0\Foody.DataAccessLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\bin\Debug\net6.0\Foody.EntityLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\bin\Debug\net6.0\Foody.DataAccessLayer.pdb
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\bin\Debug\net6.0\Foody.EntityLayer.pdb
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\Food.BusinessLayer.csproj.AssemblyReference.cache
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\Food.BusinessLayer.sourcelink.json
+D:\Github\FoodyProject_.NETCore\Foody\Food.BusinessLayer\obj\Debug\net6.0\Food.Bus.0150161E.Up2Date

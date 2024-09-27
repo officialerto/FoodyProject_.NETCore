@@ -12,3 +12,4 @@ D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\ref\Foo
 D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\bin\Debug\net6.0\Foody.EntityLayer.runtimeconfig.json
 D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.csproj.AssemblyReference.cache
 D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.genruntimeconfig.cache
+D:\Github\FoodyProject_.NETCore\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.sourcelink.json

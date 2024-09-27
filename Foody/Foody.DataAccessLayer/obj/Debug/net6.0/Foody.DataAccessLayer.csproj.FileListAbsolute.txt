@@ -13,3 +13,4 @@ D:\Github\FoodyProject_.NETCore\Foody\Foody.DataAccessLayer\bin\Debug\net6.0\Foo
 D:\Github\FoodyProject_.NETCore\Foody\Foody.DataAccessLayer\bin\Debug\net6.0\Foody.EntityLayer.pdb
 D:\Github\FoodyProject_.NETCore\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\Foody.DataAccessLayer.csproj.AssemblyReference.cache
 D:\Github\FoodyProject_.NETCore\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\Foody.Da.F8FE1C5F.Up2Date
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\Foody.DataAccessLayer.sourcelink.json
