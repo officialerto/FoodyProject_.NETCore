@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Foody.PresentationLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c4b4d9b9a17bdf21b27b28248b33acd4ede171")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e769e1f380dc4bbbb4a2bfa5f89a9c2990ee73c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Foody.PresentationLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Foody.PresentationLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
