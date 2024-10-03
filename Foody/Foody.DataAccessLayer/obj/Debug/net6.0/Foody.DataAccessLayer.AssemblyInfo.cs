@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Foody.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+188bc28a638ae04aa7def8c9481c2d1a8b97389f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a7359a7b1519fd32e134aad824559d89f3f35f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Foody.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Foody.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
