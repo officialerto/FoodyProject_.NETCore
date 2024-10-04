@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Foody.EntityLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a7359a7b1519fd32e134aad824559d89f3f35f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14f7ba5b386f9974eb2523892b84964535996f85")]
 [assembly: System.Reflection.AssemblyProductAttribute("Foody.EntityLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Foody.EntityLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

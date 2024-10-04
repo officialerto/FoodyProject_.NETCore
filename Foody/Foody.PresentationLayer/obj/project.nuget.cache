@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cdoV7GmfGoY=",
+  "dgSpecHash": "R92yqxeyeLk=",
   "success": true,
   "projectFilePath": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Foody.PresentationLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ertugrul\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Ertugrul\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Ertugrul\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Ertugrul\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

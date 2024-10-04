@@ -1,0 +1,12 @@
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\bin\Debug\net6.0\Foody.DTOLayer.deps.json
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\bin\Debug\net6.0\Foody.DTOLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\bin\Debug\net6.0\Foody.DTOLayer.pdb
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\obj\Debug\net6.0\Foody.DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\obj\Debug\net6.0\Foody.DTOLayer.AssemblyInfoInputs.cache
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\obj\Debug\net6.0\Foody.DTOLayer.AssemblyInfo.cs
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\obj\Debug\net6.0\Foody.DTOLayer.csproj.CoreCompileInputs.cache
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\obj\Debug\net6.0\Foody.DTOLayer.sourcelink.json
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\obj\Debug\net6.0\Foody.DTOLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\obj\Debug\net6.0\refint\Foody.DTOLayer.dll
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\obj\Debug\net6.0\Foody.DTOLayer.pdb
+D:\Github\FoodyProject_.NETCore\Foody\Foody.DTOLayer\obj\Debug\net6.0\ref\Foody.DTOLayer.dll

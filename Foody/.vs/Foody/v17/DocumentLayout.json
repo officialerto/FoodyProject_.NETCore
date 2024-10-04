@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Github\\FoodyProject_.NETCore\\Foody\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E86DE635-48AA-405E-BA15-4C604AAC3BA1}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|d:\\github\\foodyproject_.netcore\\foody\\foody.presentationlayer\\views\\categories\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E86DE635-48AA-405E-BA15-4C604AAC3BA1}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\views\\categories\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{39A1E2CA-4DB3-4574-9809-0FB5007E2365}|Foody.DTOLayer\\Foody.DTOLayer.csproj|d:\\github\\foodyproject_.netcore\\foody\\foody.dtolayer\\dtos\\about\\resultabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A1E2CA-4DB3-4574-9809-0FB5007E2365}|Foody.DTOLayer\\Foody.DTOLayer.csproj|solutionrelative:foody.dtolayer\\dtos\\about\\resultabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E86DE635-48AA-405E-BA15-4C604AAC3BA1}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|d:\\github\\foodyproject_.netcore\\foody\\foody.presentationlayer\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E86DE635-48AA-405E-BA15-4C604AAC3BA1}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39A1E2CA-4DB3-4574-9809-0FB5007E2365}|Foody.DTOLayer\\Foody.DTOLayer.csproj|d:\\github\\foodyproject_.netcore\\foody\\foody.dtolayer\\dtos\\about\\createabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A1E2CA-4DB3-4574-9809-0FB5007E2365}|Foody.DTOLayer\\Foody.DTOLayer.csproj|solutionrelative:foody.dtolayer\\dtos\\about\\createabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E86DE635-48AA-405E-BA15-4C604AAC3BA1}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|d:\\github\\foodyproject_.netcore\\foody\\foody.presentationlayer\\views\\products\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E86DE635-48AA-405E-BA15-4C604AAC3BA1}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\views\\products\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{39A1E2CA-4DB3-4574-9809-0FB5007E2365}|Foody.DTOLayer\\Foody.DTOLayer.csproj|d:\\github\\foodyproject_.netcore\\foody\\foody.dtolayer\\dtos\\about\\updateabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A1E2CA-4DB3-4574-9809-0FB5007E2365}|Foody.DTOLayer\\Foody.DTOLayer.csproj|solutionrelative:foody.dtolayer\\dtos\\about\\updateabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A1E2CA-4DB3-4574-9809-0FB5007E2365}|Foody.DTOLayer\\Foody.DTOLayer.csproj|d:\\github\\foodyproject_.netcore\\foody\\foody.dtolayer\\dtos\\about\\getbyidabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A1E2CA-4DB3-4574-9809-0FB5007E2365}|Foody.DTOLayer\\Foody.DTOLayer.csproj|solutionrelative:foody.dtolayer\\dtos\\about\\getbyidabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 201,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateCategory.cshtml",
-              "DocumentMoniker": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Views\\Categories\\CreateCategory.cshtml",
-              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Views\\Categories\\CreateCategory.cshtml",
-              "ToolTip": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Views\\Categories\\CreateCategory.cshtml",
-              "RelativeToolTip": "Foody.PresentationLayer\\Views\\Categories\\CreateCategory.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAkwDYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T20:10:06.282Z",
+              "DocumentIndex": 3,
+              "Title": "GetByIdAbout.cs",
+              "DocumentMoniker": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.DTOLayer\\Dtos\\About\\GetByIdAbout.cs",
+              "RelativeDocumentMoniker": "Foody.DTOLayer\\Dtos\\About\\GetByIdAbout.cs",
+              "ToolTip": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.DTOLayer\\Dtos\\About\\GetByIdAbout.cs",
+              "RelativeToolTip": "Foody.DTOLayer\\Dtos\\About\\GetByIdAbout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:27:29.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateProduct.cshtml",
-              "DocumentMoniker": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Views\\Products\\CreateProduct.cshtml",
-              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Views\\Products\\CreateProduct.cshtml",
-              "ToolTip": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Views\\Products\\CreateProduct.cshtml",
-              "RelativeToolTip": "Foody.PresentationLayer\\Views\\Products\\CreateProduct.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T20:03:14.214Z",
+              "Title": "UpdateAbout.cs",
+              "DocumentMoniker": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.DTOLayer\\Dtos\\About\\UpdateAbout.cs",
+              "RelativeDocumentMoniker": "Foody.DTOLayer\\Dtos\\About\\UpdateAbout.cs",
+              "ToolTip": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.DTOLayer\\Dtos\\About\\UpdateAbout.cs",
+              "RelativeToolTip": "Foody.DTOLayer\\Dtos\\About\\UpdateAbout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:27:17.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Foody.PresentationLayer\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "CreateAbout.cs",
+              "DocumentMoniker": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.DTOLayer\\Dtos\\About\\CreateAbout.cs",
+              "RelativeDocumentMoniker": "Foody.DTOLayer\\Dtos\\About\\CreateAbout.cs",
+              "ToolTip": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.DTOLayer\\Dtos\\About\\CreateAbout.cs",
+              "RelativeToolTip": "Foody.DTOLayer\\Dtos\\About\\CreateAbout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:57:00.42Z",
+              "WhenOpened": "2024-10-04T12:27:00.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultAbout.cs",
+              "DocumentMoniker": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.DTOLayer\\Dtos\\About\\ResultAbout.cs",
+              "RelativeDocumentMoniker": "Foody.DTOLayer\\Dtos\\About\\ResultAbout.cs",
+              "ToolTip": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.DTOLayer\\Dtos\\About\\ResultAbout.cs",
+              "RelativeToolTip": "Foody.DTOLayer\\Dtos\\About\\ResultAbout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:26:49.753Z",
               "EditorCaption": ""
             }
           ]
