@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Food.BusinessLayer\Food.BusinessLayer.csproj" />
+    <ProjectReference Include="..\Foody.DTOLayer\Foody.DTOLayer.csproj" />
   </ItemGroup>
 
 </Project>

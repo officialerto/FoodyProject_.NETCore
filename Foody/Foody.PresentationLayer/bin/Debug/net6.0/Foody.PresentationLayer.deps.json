@@ -10,6 +10,7 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "Food.BusinessLayer": "1.0.0",
+          "Foody.DTOLayer": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.31",
           "Microsoft.EntityFrameworkCore.Design": "6.0.31",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.31",
@@ -2446,6 +2447,11 @@
           "Foody.DataAccessLayer.dll": {}
         }
       },
+      "Foody.DTOLayer/1.0.0": {
+        "runtime": {
+          "Foody.DTOLayer.dll": {}
+        }
+      },
       "Foody.EntityLayer/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.31",
@@ -3932,6 +3938,11 @@
       "sha512": ""
     },
     "Foody.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Foody.DTOLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

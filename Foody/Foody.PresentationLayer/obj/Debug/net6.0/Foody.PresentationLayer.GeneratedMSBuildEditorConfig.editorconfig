@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Github\FoodyProject_.NETCore\Foody\Foody.PresentationLayer
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Abouts/AboutList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRzXEFib3V0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Abouts/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRzXENyZWF0ZUFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Abouts/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRzXFVwZGF0ZUFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/AdminLayout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,6 +44,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Categories/UpdateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xVcGRhdGVDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/ErrorPages/ErrorPage404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlc1xFcnJvclBhZ2U0MDQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Home/Index.cshtml]
@@ -62,6 +82,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0N1c3RvbVRlbXBsYXRlTGF5b3V0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Shared/Components/_DefaultHeadSectionComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRIZWFkU2VjdGlvbkNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Shared/Components/_FooterLayoutComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlckxheW91dENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -88,6 +112,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Sliders/CreateSlider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xDcmVhdGVTbGlkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Sliders/SliderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xTbGlkZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/Sliders/UpdateSlider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyc1xVcGRhdGVTbGlkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Github/FoodyProject_.NETCore/Foody/Foody.PresentationLayer/Views/_ViewImports.cshtml]

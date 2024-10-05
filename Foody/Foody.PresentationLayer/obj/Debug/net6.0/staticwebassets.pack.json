@@ -5,12 +5,576 @@
       "PackagePath": "staticwebassets\\Foody.PresentationLayer.bundle.scp.css"
     },
     {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\colorlib-error-404-10\\css\\style.css",
+      "PackagePath": "staticwebassets\\colorlib-error-404-10\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\colorlib-error-404-10\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\colorlib-error-404-10\\img\\bg.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\colorlib-error-404-10\\index.html",
+      "PackagePath": "staticwebassets\\colorlib-error-404-10\\index.html"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\colorlib-error-404-10\\readme.txt",
+      "PackagePath": "staticwebassets\\colorlib-error-404-10\\readme.txt"
+    },
+    {
       "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\404.html",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\404.html"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\READ-ME.txt"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\about.html",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\about.html"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\blog.html",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\blog.html"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\contact.html",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\contact.html"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\css\\style.css",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\feature.html",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\feature.html"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\bg-icon.png",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\bg-icon.png"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\icon-1.png",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\icon-1.png"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\icon-2.png",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\icon-2.png"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\icon-3.png",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\icon-3.png"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\index.html"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\js\\main.js",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\organic-food-website-template.jpg",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\organic-food-website-template.jpg"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\product.html",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\product.html"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\foody2-1.0.0\\testimonial.html",
+      "PackagePath": "staticwebassets\\foody2-1.0.0\\testimonial.html"
     },
     {
       "Id": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\wwwroot\\js\\site.js",

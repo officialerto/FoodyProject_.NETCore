@@ -3609,6 +3609,16 @@
           "bin/placeholder/Foody.DataAccessLayer.dll": {}
         }
       },
+      "Foody.DTOLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Foody.DTOLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Foody.DTOLayer.dll": {}
+        }
+      },
       "Foody.EntityLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -10391,6 +10401,11 @@
       "path": "../Foody.DataAccessLayer/Foody.DataAccessLayer.csproj",
       "msbuildProject": "../Foody.DataAccessLayer/Foody.DataAccessLayer.csproj"
     },
+    "Foody.DTOLayer/1.0.0": {
+      "type": "project",
+      "path": "../Foody.DTOLayer/Foody.DTOLayer.csproj",
+      "msbuildProject": "../Foody.DTOLayer/Foody.DTOLayer.csproj"
+    },
     "Foody.EntityLayer/1.0.0": {
       "type": "project",
       "path": "../Foody.EntityLayer/Foody.EntityLayer.csproj",
@@ -10401,6 +10416,7 @@
     "net6.0": [
       "AutoMapper >= 13.0.1",
       "Food.BusinessLayer >= 1.0.0",
+      "Foody.DTOLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.31",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.31",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.31",
@@ -10438,6 +10454,9 @@
           "projectReferences": {
             "D:\\Github\\FoodyProject_.NETCore\\Foody\\Food.BusinessLayer\\Food.BusinessLayer.csproj": {
               "projectPath": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Food.BusinessLayer\\Food.BusinessLayer.csproj"
+            },
+            "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.DTOLayer\\Foody.DTOLayer.csproj": {
+              "projectPath": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.DTOLayer\\Foody.DTOLayer.csproj"
             }
           }
         }
