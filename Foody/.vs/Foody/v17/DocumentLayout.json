@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{E86DE635-48AA-405E-BA15-4C604AAC3BA1}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E86DE635-48AA-405E-BA15-4C604AAC3BA1}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|d:\\github\\foodyproject_.netcore\\foody\\foody.presentationlayer\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E86DE635-48AA-405E-BA15-4C604AAC3BA1}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E86DE635-48AA-405E-BA15-4C604AAC3BA1}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|d:\\github\\foodyproject_.netcore\\foody\\foody.presentationlayer\\views\\shared\\components\\_defaultaboutsectioncomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E86DE635-48AA-405E-BA15-4C604AAC3BA1}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\views\\shared\\components\\_defaultaboutsectioncomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 201,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Views\\Shared\\Components\\_DefaultAboutSectionComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Views\\Shared\\Components\\_DefaultAboutSectionComponentPartial\\Default.cshtml",
+              "ToolTip": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Views\\Shared\\Components\\_DefaultAboutSectionComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Foody.PresentationLayer\\Views\\Shared\\Components\\_DefaultAboutSectionComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T20:05:07.504Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,22 +41,9 @@
               "RelativeDocumentMoniker": "Foody.PresentationLayer\\Views\\Default\\Index.cshtml",
               "ToolTip": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "Foody.PresentationLayer\\Views\\Default\\Index.cshtml",
-              "ViewState": "AQIAAIYDAAAAAAAAAAAAAJ8DAAAlAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T12:16:38.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Controllers\\DefaultController.cs",
-              "ToolTip": "D:\\Github\\FoodyProject_.NETCore\\Foody\\Foody.PresentationLayer\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "Foody.PresentationLayer\\Controllers\\DefaultController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T12:14:57.707Z",
+              "WhenOpened": "2024-10-17T17:07:43.855Z",
               "EditorCaption": ""
             }
           ]

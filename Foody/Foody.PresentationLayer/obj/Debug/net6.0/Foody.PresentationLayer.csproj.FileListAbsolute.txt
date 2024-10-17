@@ -255,3 +255,4 @@ D:\Github\FoodyProject_.NETCore\Foody\Foody.PresentationLayer\bin\Debug\net6.0\r
 D:\Github\FoodyProject_.NETCore\Foody\Foody.PresentationLayer\bin\Debug\net6.0\AutoMapper.dll
 D:\Github\FoodyProject_.NETCore\Foody\Foody.PresentationLayer\bin\Debug\net6.0\Foody.DTOLayer.dll
 D:\Github\FoodyProject_.NETCore\Foody\Foody.PresentationLayer\bin\Debug\net6.0\Foody.DTOLayer.pdb
+D:\Github\FoodyProject_.NETCore\Foody\Foody.PresentationLayer\bin\Debug\net6.0\System.Formats.Asn1.dll
